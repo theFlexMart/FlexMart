@@ -1,0 +1,8 @@
+name: core-infra
+runtime:
+  name: python
+description: core infrustructure for flexmart
+main: setup.py
+config:
+  encryptSecrets: false
+  org:name: flexmart
