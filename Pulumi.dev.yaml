@@ -1,0 +1,7 @@
+encryptionsalt: v1:gZOlcQ7z83A=:v1:I42eofKZV/AIzes0:mRDhDzVoRv4XpdSmL99L+Gd+pKny5Q==
+config:
+  aws:region: ap-south-1
+  aws-native:region: ap-south-1
+  core-infra:env: dev
+  encryptSecrets: false
+
