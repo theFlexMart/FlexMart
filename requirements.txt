@@ -2,4 +2,4 @@ pulumi==3.101.1
 pulumi-aws-native==0.93.0
 pulumi_aws==6.18.0
 isort==5.13.2
-black==23.12.1
+black==24.1.1
